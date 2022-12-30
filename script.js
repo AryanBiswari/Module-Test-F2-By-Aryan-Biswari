@@ -336,7 +336,6 @@ fetch("MOCK_DATA.json")
         const emailCell = document.createElement("td");
         emailCell.appendChild(document.createTextNode(student.email));
 
-        l;
         const marksCell = document.createElement("td");
         marksCell.appendChild(document.createTextNode(student.marks));
 
