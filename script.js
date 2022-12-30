@@ -41,7 +41,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
@@ -105,7 +105,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
@@ -169,7 +169,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
@@ -221,7 +221,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
@@ -273,7 +273,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
@@ -326,7 +326,7 @@ fetch("MOCK_DATA.json")
 
         const nameCell = document.createElement("td");
         const nameImg = document.createElement("img");
-        nameImg.src = student.image;
+        nameImg.src = student.img_src;
         nameImg.alt = "img";
         nameCell.appendChild(nameImg);
         nameCell.appendChild(
